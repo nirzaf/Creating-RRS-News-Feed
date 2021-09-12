@@ -1,0 +1,16 @@
+@import url("http://www.google.com/uds/solutions/dynamicfeed/gfdynamicfeedcontrol.css");
+
+#feedControl {
+margin-top : 85px;
+margin-left: auto;
+margin-right: auto;
+width : 440px;
+font-size: 25px;
+/*color: #9CADD0;*/
+color: red;
+border: 15px solid blue;
+padding-top: 35px;
+padding-left:55px;
+padding-right:50px;
+padding-bottom:50px;
+}
